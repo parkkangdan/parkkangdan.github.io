@@ -1,5 +1,5 @@
 ---   
-layout: post  
+layout: server
 author: author1  
 title: [Server] Spring framework
 date:
