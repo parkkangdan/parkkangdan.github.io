@@ -1,8 +1,8 @@
 ---   
 layout: server
 author: author1  
-title: [Server] Spring framework
-date:
+title: [Server] InetAddress
+date: 2020-02-20 17:14
 description: description 내용  
 ---  
 
