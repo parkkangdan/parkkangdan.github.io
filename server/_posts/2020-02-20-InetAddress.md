@@ -1,10 +1,9 @@
----   
-layout: server
-author: author1  
-title: [Server] InetAddress
-date: 2020-02-20 17:14
-description: description 내용  
----  
+---
+layout: post
+title: InetAddress
+author: author1
+noindex: true
+---
 
 # 서버 IP확인
 ###### "java.net.InetAddress" 활용하기
