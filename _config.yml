@@ -51,7 +51,7 @@ menu:
   - title:             Dan
     url:               /hydejack/
   - title:             Post
-    url:               /hyde/
+    url:               /server/
   - title:             Documentation
     url:               /docs/
   - title:             About
