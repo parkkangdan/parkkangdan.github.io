@@ -1,7 +1,7 @@
 ---
 layout: list
-title: Dev
-slug: Developer
+title: Server
+slug: server
 menu: true
 order: 3
 description: >
