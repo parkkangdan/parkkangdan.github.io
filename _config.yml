@@ -50,7 +50,7 @@ author:
 menu:
   - title:             Dan
     url:               /hydejack/
-  - title:             Post
+  - title:             Dev
     url:               /server/
   - title:             Documentation
     url:               /docs/
